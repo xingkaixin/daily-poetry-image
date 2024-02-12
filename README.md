@@ -2,7 +2,7 @@
 
 每天一句中国古诗词，生成 AI 图片 Powered by Bing DALL-E-3.
 
-### 👉🏽 [Live Demo](https://daily-poetry-image.vercel.app/)
+### 👉🏽 [Live Demo](https://daily.xingkaixin.me/)
 
 ## 项目介绍
 
@@ -16,7 +16,7 @@
 
 ## 订阅
 
-你可以使用 RSS 订阅每天的诗词配图：https://daily-poetry-image.vercel.app/rss.xml
+你可以使用 RSS 订阅每天的诗词配图：https://daily.xingkaixin.me/rss.xml
 
 [如何用 RSS 订阅？](https://zhuanlan.zhihu.com/p/55026716)
 
@@ -34,11 +34,11 @@
 
 ## Star History
 
-<a href="https://star-history.com/#liruifengv/daily-poetry-image&Date">
+<a href="https://star-history.com/#xingkaixin/daily-poetry-image&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=liruifengv/daily-poetry-image&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=liruifengv/daily-poetry-image&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=liruifengv/daily-poetry-image&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=xingkaixin/daily-poetry-image&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=xingkaixin/daily-poetry-image&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=xingkaixin/daily-poetry-image&type=Date" />
   </picture>
 </a>
 
